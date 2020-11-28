@@ -1,9 +1,24 @@
+<a href="https://github.com/Edd002">
+  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="48px" height="48px">
+</a>
+
+<a href="mailto:edduarddollima@gmail.com">
+  <img src="https://image.flaticon.com/icons/png/512/60/60543.png" width="48px" height="48px">
+</a>
+
+<a href="https://www.linkedin.com/in/eduardo-augusto-lima-pereira/">
+  <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="48px" height="48px">
+</a>
+
+<br />
+<br />
+
 <div align="justify">
  
 **RESUMO DA CARREIRA**
 <br />
   Sou desenvolvedor e estudante na Universidade FUMEC. Possuo ampla familiaridade com a linguagem de programação Java assim como SQL, além de conhecimento outras        tecnologias vistas ao longo da trajetória acadêmica e profissional.
-<br />
+<br /><br />
 
 **OBJETIVO**
   - Adquirir experiência profissional na área da Tecnologia da Informação, em específico como desenvolvedor.
