@@ -17,7 +17,7 @@
  
 **RESUMO DA CARREIRA**
 <br />
-  Sou desenvolvedor e estudante na Universidade FUMEC. Possuo ampla familiaridade com a linguagem de programação Java assim como SQL, além de conhecimento outras        tecnologias vistas ao longo da trajetória acadêmica e profissional.
+  Sou desenvolvedor formado em Ciência da Computação pela Universidade FUMEC. Possuo ampla familiaridade com a linguagem de programação Java assim como SQL, além de conhecimento outras tecnologias vistas ao longo da trajetória acadêmica e profissional.
 <br /><br />
 
 **OBJETIVO**
