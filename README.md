@@ -174,7 +174,7 @@
 </code>
 
 <code>
-<img height="32" src="https://w7.pngwing.com/pngs/106/833/png-transparent-dart-logo-programming-language-computer-programming-android-text-logo-computer-programming.png">
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
 </code>
 
 <code>
