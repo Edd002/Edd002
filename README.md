@@ -94,11 +94,31 @@
 </code>
 
 <code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/subversion-3521748-2945192.png">
+</code>
+
+<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/nodejs-6-569582.png">
 </code>
 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/angularjs-3-1175272.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png">
+</code>
+
+<code>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/ionic-5-1175017.png">
 </code>
 
 <code>
@@ -139,26 +159,6 @@
 
 <code>
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/320px-Apache-Ant-logo.svg.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/subversion-3521748-2945192.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png">
-</code>
-
-<code>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/ionic-5-1175017.png">
 </code>
 
 <code>
