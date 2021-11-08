@@ -114,19 +114,7 @@
 </code>
 
 <code>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/ionic-5-1175017.png">
-</code>
-
-<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
 </code>
 
 <code>
@@ -135,6 +123,10 @@
 
 <code>
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/512px-Power_bi_logo_black.svg.png">
+</code>
+
+<code>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
 </code>
 
 <code>
@@ -162,7 +154,19 @@
 </code>
 
 <code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/ionic-5-1175017.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
+</code>
+
+<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png">
+</code>
+
+<code>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
 </code>
 
 <code>
@@ -174,7 +178,7 @@
 </code>
 
 <code>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/kotlin-2038873-1720086.png">
 </code>
 
 <code>
