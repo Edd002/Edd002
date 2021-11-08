@@ -166,10 +166,6 @@
 </code>
 
 <code>
-<img height="32" src="https://w7.pngwing.com/pngs/106/833/png-transparent-dart-logo-programming-language-computer-programming-android-text-logo-computer-programming.png">
-</code>
-
-<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/android-247-1175275.png">
 </code>
 
@@ -182,7 +178,7 @@
 </code>
 
 <code>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/IOS_wordmark_%282017%29.svg/320px-IOS_wordmark_%282017%29.svg.png">
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/apple-263-202445.png">
 </code>
 
 <code>
