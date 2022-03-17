@@ -82,11 +82,11 @@
 </code>
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/html-2752158-2284975.png">
+<img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
 </code>
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/css-2749248-2284638.png">
+<img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
 </code>
 
 <code>
