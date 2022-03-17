@@ -1,13 +1,13 @@
 <a href="https://github.com/Edd002">
-  <img src="https://image.flaticon.com/icons/png/512/25/25231.png" width="48px" height="48px">
+  <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="48px" height="48px">
 </a>
 
 <a href="mailto:edduarddollima@gmail.com">
-  <img src="https://image.flaticon.com/icons/png/512/60/60543.png" width="48px" height="48px">
+  <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1647477920~hmac=54cc0debe24e519597f50a9372074dac" width="48px" height="48px">
 </a>
 
 <a href="https://www.linkedin.com/in/eduardo-augusto-lima-pereira/">
-  <img src="https://image.flaticon.com/icons/png/512/61/61109.png" width="48px" height="48px">
+  <img src="https://cdn-icons-png.flaticon.com/512/1384/1384014.png" width="48px" height="48px">
 </a>
 
 <br />
