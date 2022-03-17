@@ -54,6 +54,10 @@
 </code>
 
 <code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png">
+</code>
+
+<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png">
 </code>
 
@@ -66,15 +70,15 @@
 </code>
 
 <code>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
+</code>
+
+<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png">
 </code>
 
 <code>
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png">
 </code>
 
 <code>
@@ -94,10 +98,6 @@
 </code>
 
 <code>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
-</code>
-
-<code>
 <img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-2330566-1950407.png">
 </code>
 
@@ -113,6 +113,7 @@
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jira-282222.png">
 </code>
 
+<br />
 <br />
 
 **OUTRAS TECNOLOGIAS**
