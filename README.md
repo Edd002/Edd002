@@ -43,7 +43,7 @@
 
 <br />
 
-**OUTROS CONHECIMENTOS** 
+**PRINCIPAIS TECNOLOGIAS**
 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png">
@@ -51,14 +51,6 @@
 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-12-556000.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-57-1175191.png">
 </code>
 
 <code>
@@ -70,11 +62,70 @@
 </code>
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-sharp-2-569585.png">
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png">
 </code>
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png">
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png">
+</code>
+
+<code>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/spring-16-283031.png">
+</code>
+
+<code>
+<img height="32" src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png">
+</code>
+
+<code>
+<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-2330566-1950407.png">
+</code>
+
+<code>
+<img height="32" src="https://static1.smartbear.co/soapui/media/images/stories/homepage/features/soapui-logo.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jira-282222.png">
+</code>
+
+
+**OUTRAS TECNOLOGIAS**
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-57-1175191.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-sharp-2-569585.png">
 </code>
 
 <code>
@@ -90,10 +141,6 @@
 </code>
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png">
-</code>
-
-<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/subversion-3521748-2945192.png">
 </code>
 
@@ -103,10 +150,6 @@
 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/angularjs-3-1175272.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png">
 </code>
 
 <code>
@@ -126,19 +169,7 @@
 </code>
 
 <code>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png">
-</code>
-
-<code>
 <img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/416px-Apache_NetBeans_Logo.svg.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/spring-16-283031.png">
 </code>
 
 <code>
@@ -159,14 +190,6 @@
 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png">
-</code>
-
-<code>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
 </code>
 
 <code>
@@ -194,15 +217,7 @@
 </code>
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-2330566-1950407.png">
-</code>
-
-<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/xml-file-2330558-1950399.png">
-</code>
-
-<code>
-<img height="32" src="https://static1.smartbear.co/soapui/media/images/stories/homepage/features/soapui-logo.png">
 </code>
 
 <code>
@@ -210,15 +225,7 @@
 </code>
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png">
-</code>
-
-<code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/virtualbox-282903.png">
-</code>
-
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jira-282222.png">
 </code>
 
 <code>
