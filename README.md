@@ -3,7 +3,7 @@
 </a>
 
 <a href="mailto:edduarddollima@gmail.com">
-  <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1647477920~hmac=54cc0debe24e519597f50a9372074dac" width="48px" height="48px">
+  <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1648423029~hmac=e6826011a577f55d33eff9a8048f05b3" width="48px" height="48px">
 </a>
 
 <a href="https://www.linkedin.com/in/eduardo-augusto-lima-pereira/">
