@@ -102,7 +102,7 @@
 </code>
 
 <code>
-<img height="32" src="https://static1.smartbear.co/soapui/media/images/stories/homepage/features/soapui-logo.png">
+<img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">
 </code>
 
 <code>
@@ -168,6 +168,10 @@
 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png">
+</code>
+
+<code>
+<img height="32" src="https://static1.smartbear.co/soapui/media/images/stories/homepage/features/soapui-logo.png">
 </code>
 
 <code>
