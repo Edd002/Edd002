@@ -147,6 +147,10 @@
 </code>
 
 <code>
+<img height="32" src="https://cdn-icons-png.flaticon.com/512/919/919853.png">
+</code>
+
+<code>
 <img height="32" src="https://cdn-icons-png.flaticon.com/512/873/873120.png">
 </code>
 
