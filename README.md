@@ -3,7 +3,7 @@
 </a>
 
 <a href="mailto:edduarddollima@gmail.com">
-  <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1648423029~hmac=e6826011a577f55d33eff9a8048f05b3" width="48px" height="48px">
+  <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1649008254~hmac=0b4a25b4be71dde796b29b9a284e7c39" width="48px" height="48px">
 </a>
 
 <a href="https://www.linkedin.com/in/eduardo-augusto-lima-pereira/">
@@ -144,6 +144,14 @@
 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/subversion-3521748-2945192.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn-icons-png.flaticon.com/512/873/873120.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png">
 </code>
 
 <code>
