@@ -3,7 +3,7 @@
 </a>
 
 <a href="mailto:edduarddollima@gmail.com">
-  <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1649008254~hmac=0b4a25b4be71dde796b29b9a284e7c39" width="48px" height="48px">
+  <img src="https://cdn-icons.flaticon.com/png/512/3178/premium/3178158.png?token=exp=1650753727~hmac=e8ef6285aaa5a2cc197fa27a6ff7411a" width="48px" height="48px">
 </a>
 
 <a href="https://www.linkedin.com/in/eduardo-augusto-lima-pereira/">
@@ -51,6 +51,10 @@
 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-12-556000.png">
+</code>
+
+<code>
+<img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png">
 </code>
 
 <code>
@@ -111,6 +115,10 @@
 
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jira-282222.png">
+</code>
+
+<code>
+<img height="32" src="https://user-images.githubusercontent.com/10860815/86916754-6b0c9380-c167-11ea-901b-78571ad4065d.png">
 </code>
 
 <br />
