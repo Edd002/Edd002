@@ -141,7 +141,7 @@
 &nbsp;
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/apple-263-202445.png"></code>
 &nbsp;
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/en/0/0c/Xcode_icon.png"></code>
+<code><img height="32" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png"></code>
 &nbsp;
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"></code>
 &nbsp;
