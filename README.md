@@ -84,7 +84,6 @@
 <code><img height="32" src="https://user-images.githubusercontent.com/10860815/86916754-6b0c9380-c167-11ea-901b-78571ad4065d.png"></code>
 
 <br />
-<br />
 
 **OUTRAS TECNOLOGIAS**
 
