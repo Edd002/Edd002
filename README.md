@@ -46,7 +46,9 @@
 **PRINCIPAIS TECNOLOGIAS**
 
 <code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png">
+  <a href="https://www.java.com/pt-BR/" rel="nofollow">
+    <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png">
+  </a>
 </code>
 
 <code>
