@@ -48,7 +48,6 @@
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png">
 </code>
-
 <code>
 <img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-12-556000.png">
 </code>
