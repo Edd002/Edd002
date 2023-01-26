@@ -51,69 +51,37 @@
 &nbsp;
 <code><a href="https://www.java.com/pt-BR/" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></a></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png">
-</code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png">
-</code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/spring-16-283031.png">
-</code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/spring-16-283031.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200">
-</code>
+<code><img height="32" src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200"></code>
 &nbsp;
-<code>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png">
-</code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png">
-</code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png">
-</code>
+<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png">
-</code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png">
-</code>
+<code><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png">
-</code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png">
-</code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-2330566-1950407.png">
-</code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-2330566-1950407.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png">
-</code>
+<code><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png">
-</code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jira-282222.png">
-</code>
+<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jira-282222.png"></code>
 &nbsp;
-<code>
-<img height="32" src="https://user-images.githubusercontent.com/10860815/86916754-6b0c9380-c167-11ea-901b-78571ad4065d.png">
-</code>
+<code><img height="32" src="https://user-images.githubusercontent.com/10860815/86916754-6b0c9380-c167-11ea-901b-78571ad4065d.png"></code>
 
 <br />
 <br />
