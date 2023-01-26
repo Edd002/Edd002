@@ -45,17 +45,9 @@
 
 **PRINCIPAIS TECNOLOGIAS**
 
-<code><a href="https://www.gnu.org/software/bash/" target="_blank"><img height="32" src="#"/></a></code>
-&nbsp; 
-<code><a href="https://www.python.org/" target="_blank"><img width="32" height="32" src="#"/></a></code>
-&nbsp; 
-<code><a href="https://www.open-std.org/jtc1/sc22/wg14/" target="_blank"><img width="32" height="32" src="#"/></a></code>
-
 <code><a href="https://www.java.com/pt-BR/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png"></a></code>
-&nbsp;
-<code>
-  <a href="https://www.java.com/pt-BR/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-12-556000.png"></a>
-</code>
+
+<code><a href="https://www.java.com/pt-BR/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-12-556000.png"></a></code>
 
 <code>
   <a href="https://www.java.com/pt-BR/" rel="nofollow">
