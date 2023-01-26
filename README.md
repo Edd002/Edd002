@@ -47,9 +47,9 @@
 
 <code><a href="https://www.java.com/pt-BR/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png"></a></code>
 &nbsp;
-<code><a href="https://www.java.com/pt-BR/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-12-556000.png"></a></code>
+<code><a href="https://www.mysql.com/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-12-556000.png"></a></code>
 &nbsp;
-<code><a href="https://www.java.com/pt-BR/" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></a></code>
+<code><a href="https://www.postgresql.org/" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></a></code>
 &nbsp;
 <code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png"></code>
 &nbsp;
