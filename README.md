@@ -103,23 +103,23 @@
 &nbsp;
 <code><a href="https://www.docker.com" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"></a></code>
+<code><a href="https://www.heroku.com" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png"></a></code>
+<code><a href="https://firebase.google.com" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_firebase_icon_130606.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/nodejs-6-569582.png"></a></code>
+<code><a href="https://nodejs.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/nodejs-6-569582.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/angularjs-3-1175272.png"></a></code>
+<code><a href="https://angular.io" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/angularjs-3-1175272.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png"></a></code>
+<code><a href="https://jquery.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jquery-10-1175155.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png"></a></code>
+<code><a href="https://www.php.net" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/php-27-226042.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://static1.smartbear.co/soapui/media/images/stories/homepage/features/soapui-logo.png"></a></code>
+<code><a href="https://www.soapui.org" rel="nofollow"><img height="32" src="https://static1.smartbear.co/soapui/media/images/stories/homepage/features/soapui-logo.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-office-722717.png"></a></code>
+<code><a href="https://www.microsoft.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-office-722717.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/512px-Power_bi_logo_black.svg.png"></a></code>
+<code><a href="https://powerbi.microsoft.com" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/512px-Power_bi_logo_black.svg.png"></a></code>
 &nbsp;
 <code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/416px-Apache_NetBeans_Logo.svg.png"></a></code>
 &nbsp;
