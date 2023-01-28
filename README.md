@@ -73,7 +73,7 @@
 &nbsp;
 <code><a href="https://getbootstrap.com/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png"></a></code>
 &nbsp;
-<code><a href="https://www.json.org/json-pt.html" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-2330566-1950407.png"></a></code>
+<code><a href="https://www.json.org/json-pt.html/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-2330566-1950407.png"></a></code>
 &nbsp;
 <code><a href="https://www.postman.com/" rel="nofollow"><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></a></code>
 &nbsp;
@@ -81,13 +81,13 @@
 &nbsp;
 <code><a href="https://www.atlassian.com/br/software/jira" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jira-282222.png"></a></code>
 &nbsp;
-<code><a href="https://azure.microsoft.com/pt-br/products/devops" rel="nofollow"><img height="32" src="https://user-images.githubusercontent.com/10860815/86916754-6b0c9380-c167-11ea-901b-78571ad4065d.png"></a></code>
+<code><a href="https://azure.microsoft.com/pt-br/products/devops/" rel="nofollow"><img height="32" src="https://user-images.githubusercontent.com/10860815/86916754-6b0c9380-c167-11ea-901b-78571ad4065d.png"></a></code>
 
 <br />
 
 **OUTRAS TECNOLOGIAS**
 
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png"></a></code>
+<code><a href="https://www.microsoft.com/pt-br/sql-server/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png"></a></code>
 &nbsp;
 <code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-57-1175191.png"></a></code>
 &nbsp;
