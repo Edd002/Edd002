@@ -137,7 +137,7 @@
 &nbsp;
 <code><a href="https://developer.android.com/studio" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/android-studio-3251591-2724643.png"></a></code>
 &nbsp;
-<code><a href="https://kotlinlang.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/kotlin-2038873-1720086.png"></a></code>
+<code><a href="https://kotlinlang.org" rel="nofollow"><img height="32" src="https://static-00.iconduck.com/assets.00/jb-kotlin-icon-256x256-a8rrb85x.png"></a></code>
 &nbsp;
 <code><a href="https://www.apple.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/apple-263-202445.png"></a></code>
 &nbsp;
