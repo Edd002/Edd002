@@ -137,18 +137,18 @@
 &nbsp;
 <code><a href="https://developer.android.com/studio" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/android-studio-3251591-2724643.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/kotlin-2038873-1720086.png"></a></code>
+<code><a href="https://kotlinlang.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/kotlin-2038873-1720086.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/apple-263-202445.png"></a></code>
+<code><a href="https://www.apple.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/apple-263-202445.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png"></a></code>
+<code><a href="https://developer.apple.com/xcode" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/xcode_macos_bigsur_icon_189539.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"></a></code>
+<code><a href="https://www.swift.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/swift-21-1175088.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/xml-file-2330558-1950399.png"></a></code>
+<code><a href="https://www.xml.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/xml-file-2330558-1950399.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/miro-3567784-2984008.png"></a></code>
+<code><a href="https://miro.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/miro-3567784-2984008.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/virtualbox-282903.png"></a></code>
+<code><a href="https://www.virtualbox.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/virtualbox-282903.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://e7.pngegg.com/pngimages/305/131/png-clipart-redmine-installation-issue-tracking-system-project-management-open-source-software-github-logo-project-management.png"></a></code>
+<code><a href="https://www.redmine.org" rel="nofollow"><img height="32" src="https://e7.pngegg.com/pngimages/305/131/png-clipart-redmine-installation-issue-tracking-system-project-management-open-source-software-github-logo-project-management.png"></a></code>
