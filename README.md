@@ -87,21 +87,21 @@
 
 **OUTRAS TECNOLOGIAS**
 
-<code><a href="https://www.microsoft.com/pt-br/sql-server/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png"></a></code>
+<code><a href="https://www.microsoft.com/pt-br/sql-server" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-57-1175191.png"></a></code>
+<code><a href="https://www.open-std.org/jtc1/sc22/wg14" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-57-1175191.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-sharp-2-569585.png"></a></code>
+<code><a href="https://learn.microsoft.com/pt-br/dotnet/csharp" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-sharp-2-569585.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png"></a></code>
+<code><a href="https://www.python.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/python-2-226051.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png"></a></code>
+<code><a href="https://jupyter.org" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/207px-Jupyter_logo.svg.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/512px-UML_logo.svg.png"></a></code>
+<code><a href="https://www.uml.org" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/UML_logo.svg/512px-UML_logo.svg.png"></a></code>
 &nbsp;
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/subversion-3521748-2945192.png"></a></code>
+<code><a href="https://subversion.apache.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/subversion-3521748-2945192.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"></a></code>
+<code><a href="https://www.docker.com" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/919/919853.png"></a></code>
 &nbsp;
 <code><a href="" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/873/873120.png"></a></code>
 &nbsp;
