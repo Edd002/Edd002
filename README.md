@@ -121,21 +121,21 @@
 &nbsp;
 <code><a href="https://powerbi.microsoft.com" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Power_bi_logo_black.svg/512px-Power_bi_logo_black.svg.png"></a></code>
 &nbsp;
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/416px-Apache_NetBeans_Logo.svg.png"></a></code>
+<code><a href="https://netbeans.apache.org" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Apache_NetBeans_Logo.svg/416px-Apache_NetBeans_Logo.svg.png"></a></code>
 &nbsp;
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/tomcat-2-1175085.png"></a></code>
+<code><a href="https://tomcat.apache.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/tomcat-2-1175085.png"></a></code>
 &nbsp;
-<code><img height="32" src="https://design.jboss.org/wildfly/logo/final/wildfly_icon_256px.png"></a></code>
+<code><a href="https://www.wildfly.org" rel="nofollow"><img height="32" src="https://design.jboss.org/wildfly/logo/final/wildfly_icon_256px.png"></a></code>
 &nbsp;
-<code><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/320px-Apache-Ant-logo.svg.png"></a></code>
+<code><a href="https://ant.apache.org" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Apache-Ant-logo.svg/320px-Apache-Ant-logo.svg.png"></a></code>
 &nbsp;
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/ionic-5-1175017.png"></a></code>
+<code><a href="https://ionicframework.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/ionic-5-1175017.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></a></code>
+<code><a href="https://www.typescriptlang.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/typescript-1174965.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/android-247-1175275.png"></a></code>
+<code><a href="https://www.android.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/android-247-1175275.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/android-studio-3251591-2724643.png"></a></code>
+<code><a href="https://developer.android.com/studio" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/android-studio-3251591-2724643.png"></a></code>
 &nbsp;
 <code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/kotlin-2038873-1720086.png"></a></code>
 &nbsp;
