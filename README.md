@@ -51,29 +51,29 @@
 &nbsp;
 <code><a href="https://www.postgresql.org/" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png"></a></code>
+<code><a href="https://github.com/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png"></a></code>
+<code><a href="https://www.eclipse.org/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/eclipse-14-282371.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/spring-16-283031.png"></a></code>
+<code><a href="https://spring.io/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/spring-16-283031.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200"></a></code>
+<code><a href="https://swagger.io/" rel="nofollow"><img height="32" src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
+<code><a href="https://code.visualstudio.com/" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></a></code>
+<code><a href="https://flutter.dev/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/flutter-2038877-1720090.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></a></code>
+<code><a href="https://dart.dev/" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a></code>
+<code><a href="https://www.w3schools.com/html/" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></a></code>
+<code><a href="https://www.w3schools.com/css/" rel="nofollow"><img height="32" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png"></a></code>
+<code><a href="https://www.w3schools.com/js/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/javascript-2038874-1720087.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png"></a></code>
+<code><a href="https://getbootstrap.com/" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/bootstrap-6-1175203.png"></a></code>
 &nbsp;
-<code><a href="" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-2330566-1950407.png"></a></code>
+<code><a href="https://www.json.org/json-pt.html" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/premium/png-256-thumb/json-file-2330566-1950407.png"></a></code>
 &nbsp;
 <code><a href="" rel="nofollow"><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></a></code>
 &nbsp;
