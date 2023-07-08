@@ -17,7 +17,7 @@
  
 **RESUMO DA CARREIRA**
 <br />
-  Sou desenvolvedor formado em Ciência da Computação pela Universidade FUMEC. Possuo ampla familiaridade com a linguagem de programação Java assim como SQL, além de conhecimento outras tecnologias vistas ao longo da trajetória acadêmica e profissional.
+  Sou desenvolvedor formado em Ciência da Computação pela Universidade FUMEC. Possuo ampla familiaridade com a linguagem de programação Java, em específico com JEE e Spring Boot, assim como SQL. Também possuo conhecimento também com diversas outras tecnologias e culturas vistas ao longo da trajetória acadêmica e profissional.
 <br /><br />
 
 **OBJETIVO**
@@ -50,6 +50,8 @@
 <code><a href="https://www.mysql.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-12-556000.png"></a></code>
 &nbsp;
 <code><a href="https://www.postgresql.org" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></a></code>
+&nbsp;
+<code><a href="https://www.h2database.com/html/main.html" rel="nofollow"><img height="32" src="https://www.h2database.com/html/images/h2-logo-2.png"></a></code>
 &nbsp;
 <code><a href="https://github.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png"></a></code>
 &nbsp;
@@ -88,6 +90,8 @@
 **OUTRAS TECNOLOGIAS**
 
 <code><a href="https://www.microsoft.com/pt-br/sql-server" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/sql-4-190807.png"></a></code>
+&nbsp;
+<code><a href="https://redis.io/" rel="nofollow"><img height="32" src="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png"></a></code>
 &nbsp;
 <code><a href="https://www.open-std.org/jtc1/sc22/wg14" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-57-1175191.png"></a></code>
 &nbsp;
