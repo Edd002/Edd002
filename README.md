@@ -51,7 +51,7 @@
 &nbsp;
 <code><a href="https://www.postgresql.org" rel="nofollow"><img height="32" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/postgresql_plain_wordmark_logo_icon_146390.png"></a></code>
 &nbsp;
-<code><a href="https://www.h2database.com/html/main.html" rel="nofollow"><img height="32" src="https://www.h2database.com/html/images/h2-logo-2.png"></a></code>
+<code><a href="https://www.h2database.com/html/main.html" rel="nofollow"><img height="32" src="https://avatars.githubusercontent.com/u/11459762?s=200&v=4"></a></code>
 &nbsp;
 <code><a href="https://github.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/github-84-436555.png"></a></code>
 &nbsp;
