@@ -17,7 +17,7 @@
  
 **RESUMO DA CARREIRA**
 <br />
-  Sou desenvolvedor formado em Ciência da Computação pela Universidade FUMEC. Possuo ampla familiaridade com a linguagem de programação Java, em específico com JEE e Spring Boot, assim como SQL. Também possuo conhecimento também com diversas outras tecnologias e culturas vistas ao longo da trajetória acadêmica e profissional.
+  Sou desenvolvedor formado em Ciência da Computação pela Universidade FUMEC. Possuo ampla familiaridade com a linguagem de programação Java, em específico com JEE e Spring Boot, assim como SQL. Ademais, possuo também conhecimentos em diversas outras tecnologias e culturas vistas ao longo da trajetória acadêmica e profissional.
 <br /><br />
 
 **OBJETIVO**
