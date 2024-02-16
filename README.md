@@ -61,7 +61,7 @@
 &nbsp;
 <code><a href="https://swagger.io" rel="nofollow"><img height="32" src="https://avatars0.githubusercontent.com/u/7658037?v=3&s=200"></a></code>
 &nbsp;
-<code><a href="https://wicket.apache.org" rel="nofollow"><img height="32" src="https://assets.stickpng.com/images/62bc7e9e071dec17849af32b.png"></a></code>
+<code><a href="https://wicket.apache.org" rel="nofollow"><img height="32" src="https://iconape.com/wp-content/png_logo_vector/wicket-logo.png"></a></code>
 &nbsp;
 <code><a href="https://code.visualstudio.com" rel="nofollow"><img height="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/512px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 &nbsp;
