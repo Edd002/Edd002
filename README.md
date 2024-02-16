@@ -81,6 +81,8 @@
 &nbsp;
 <code><a href="https://www.postman.com" rel="nofollow"><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></a></code>
 &nbsp;
+<code><a href="https://graylog.org/" rel="nofollow"><img height="32" src="https://static-00.iconduck.com/assets.00/graylog-icon-512x495-42etojoa.png"></a></code>
+&nbsp;
 <code><a href="https://www.linux.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png"></a></code>
 &nbsp;
 <code><a href="https://www.atlassian.com/br/software/jira" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/jira-282222.png"></a></code>
