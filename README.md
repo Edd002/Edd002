@@ -45,7 +45,7 @@
 
 **PRINCIPAIS TECNOLOGIAS**
 
-<code><a href="https://www.java.com/pt-BR" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/java-60-1174953.png"></a></code>
+<code><a href="https://www.java.com/pt-BR" rel="nofollow"><img height="32" src="https://raw.githubusercontent.com/Edd002/Edd002/main/logos/logo-java.webp"></a></code>
 &nbsp;
 <code><a href="https://www.mysql.com" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/mysql-12-556000.png"></a></code>
 &nbsp;
