@@ -81,7 +81,7 @@
 &nbsp;
 <code><a href="https://www.postman.com" rel="nofollow"><img height="32" src="https://user-images.githubusercontent.com/2676579/34940598-17cc20f0-f9be-11e7-8c6d-f0190d502d64.png"></a></code>
 &nbsp;
-<code><a href="https://graylog.org/" rel="nofollow"><img height="32" src="https://cdn-jnkep.nitrocdn.com/GTmurwhroBoLJVMAHNGccmBVEhSunPoF/assets/images/optimized/rev-ed4d356/graylog.org/wp-content/uploads/2022/07/GrayLog_Logo_color-300x96.png"></a></code>
+<code><a href="https://graylog.org/" rel="nofollow"><img height="32" src="https://cdn.worldvectorlogo.com/logos/graylog.svg"></a></code>
 &nbsp;
 <code><a href="https://www.linux.org" rel="nofollow"><img height="32" src="https://cdn.iconscout.com/icon/free/png-256/linux-21-1174928.png"></a></code>
 &nbsp;
