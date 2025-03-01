@@ -53,6 +53,8 @@
 &nbsp;
 <code><a href="https://www.h2database.com/html/main.html" rel="nofollow"><img height="32" src="https://raw.githubusercontent.com/Edd002/Edd002/main/logos/h2.png"></a></code>
 &nbsp;
+<code><a href="https://aws.amazon.com" rel="nofollow"><img height="32" src="https://raw.githubusercontent.com/Edd002/Edd002/main/logos/aws.png"></a></code>
+&nbsp;
 <code><a href="https://github.com" rel="nofollow"><img height="32" src="https://raw.githubusercontent.com/Edd002/Edd002/main/logos/github.png"></a></code>
 &nbsp;
 <code><a href="https://www.jetbrains.com/idea/" rel="nofollow"><img height="32" src="https://raw.githubusercontent.com/Edd002/Edd002/main/logos/intellij.jpg"></a></code>
